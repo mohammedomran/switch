@@ -80,6 +80,13 @@ button
     position: relative;
     bottom: 35px;
 }
+.slider input
+{
+    background: url("images/s-search.png") no-repeat 5px 5px;
+    background-position: 200px 8px;
+    background-size: 20px 20px;
+    
+}
 .slider .nav
 {
     bottom: 76px;
